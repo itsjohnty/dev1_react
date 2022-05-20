@@ -1,6 +1,5 @@
 import React from 'react';
 import FilterableProductTable from './FilterableProductTable'
-import './App.css';
 
 function App() {
   const PRODUCTS = [
